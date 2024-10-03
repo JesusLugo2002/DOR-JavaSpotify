@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel serve -d dist src/index.html",
-    "build": "parcel build -d build --public-url /dor-javaspotigy/ src/index.html",
+    "build": "parcel build -d build --public-url /dor-javaspotify/ src/index.html",
     "deploy": "gh-pages -d build"
   },
   "keywords": [],
