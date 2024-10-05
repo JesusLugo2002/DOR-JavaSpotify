@@ -40,7 +40,7 @@ body {
     border-radius: 50%;
     width: 200px;
     height: 200px;
-    transition: transform 20s;
+    transition: transform 1s;
 }
 
 .detail {
