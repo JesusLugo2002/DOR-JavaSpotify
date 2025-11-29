@@ -43,7 +43,9 @@ I used the `parcel-bundler` package to run a development server that helps me wi
 ## Demostration
 
 <div align=center>
-    <video controls src="assets/demo.mp4" title="Title"></video>
+    
+https://github.com/user-attachments/assets/227632af-f413-4322-8e09-6a1e3e604e1d
+
 </div>
 
 </div>
