@@ -1,6 +1,6 @@
 <div align=justify>
 
-# JavaSpotify
+# :musical_note: JavaSpotify
 
 A simple audio player online with three songs, stylized like vinyl records with photos from their albums. The songs are:
 
@@ -10,7 +10,7 @@ A simple audio player online with three songs, stylized like vinyl records with 
 
 This was created as homework for the Web Design subject of my Web Application Development formation.
 
-## Technologies
+## :wrench: Technologies
 
 - `HTML`
 - `CSS`
@@ -18,7 +18,7 @@ This was created as homework for the Web Design subject of my Web Application De
 - `npm`
 - `parcel-bundler`
 
-## What I learned
+## :book: What I learned
 
 ### Identifiers for CSS
 
@@ -40,7 +40,7 @@ I deployed my very first web app using `npm` to install `gh-pages` package, allo
 
 I used the `parcel-bundler` package to run a development server that helps me with the app creation and also compress the project assets into bundles to deploy it more lightweight and fast.
 
-## Demostration
+## :eyes: Demostration
 
 <div align=center>
     
